@@ -99,6 +99,8 @@
     newBounds.origin.y = newBounds.origin.y + self.searchBar.bounds.size.height;
     [[self tableView] setBounds:newBounds];
 
+    self.searchBar.showsScopeBar = NO;
+    
     [self loadEnglishDictionary];
 }
 

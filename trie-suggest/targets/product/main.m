@@ -1,13 +1,7 @@
-//
-//  main.m
-//  SingleView
-//
-//  Created by Jano on 10/7/12.
-//  Copyright (c) 2012 Jano. All rights reserved.
-//
+
+// BSD License. Author: jano@jano.com.es
 
 #import <UIKit/UIKit.h>
-
 #import "AppDelegate.h"
 
 int main(int argc, char *argv[])
